@@ -1,0 +1,184 @@
+1491905639292	geckodriver	INFO	Listening on 127.0.0.1:43025
+1491905640293	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rRifZr0EvAQk
+1491905640295	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1491905640402	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46764
+
+(firefox:785): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:785): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:785): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:785): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491905644663	Marionette	INFO	Listening on port 46764
+
+(/usr/lib/firefox/plugin-container:858): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:858): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:858): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:858): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906024678	geckodriver	INFO	Listening on 127.0.0.1:50702
+1491906025677	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.uuYavdtyMJY4
+1491906025679	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1491906025684	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44440
+
+(firefox:3140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906026638	Marionette	INFO	Listening on port 44440
+
+(/usr/lib/firefox/plugin-container:3208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3208): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:3208): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906236213	geckodriver	INFO	Listening on 127.0.0.1:44899
+1491906237210	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Ox43DEMIV8K4
+1491906237212	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1491906237222	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40021
+
+(firefox:4566): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4566): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:4566): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:4566): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906238153	Marionette	INFO	Listening on port 40021
+
+(/usr/lib/firefox/plugin-container:4636): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4636): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4636): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:4636): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+[Child 4636] ###!!! ABORT: Aborting on channel error.: file /build/firefox-INu87C/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+[Child 4636] ###!!! ABORT: Aborting on channel error.: file /build/firefox-INu87C/firefox-51.0.1+build2/ipc/glue/MessageChannel.cpp, line 2056
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x420003,name=PCompositable::Msg_Destroy) Channel error: cannot send/recv
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491906359873	geckodriver	INFO	Listening on 127.0.0.1:42099
+1491906360874	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.DoXMVucpMUJE
+1491906360876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1491906360883	geckodriver::marionette	INFO	Connecting to Marionette on localhost:45899
+
+(firefox:5290): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5290): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906361876	Marionette	INFO	Listening on port 45899
+
+(/usr/lib/firefox/plugin-container:5364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5364): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:5364): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906519174	geckodriver	INFO	Listening on 127.0.0.1:59936
+1491906520171	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.63kpoQl5olR1
+1491906520172	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1491906520271	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46247
+
+(firefox:6096): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6096): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6096): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6096): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906521424	Marionette	INFO	Listening on port 46247
+
+(/usr/lib/firefox/plugin-container:6362): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6362): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6362): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:6362): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1491906682719	geckodriver	INFO	Listening on 127.0.0.1:59324
+1491906683716	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.hkUPOcOWv44A
+1491906683717	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1491906683724	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40129
+
+(firefox:7008): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7008): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:7008): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7008): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+1491906684980	Marionette	INFO	Listening on port 40129
+
+(/usr/lib/firefox/plugin-container:7076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7076): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(/usr/lib/firefox/plugin-container:7076): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+(firefox:7008): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:7008): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:6096): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:6096): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:5290): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:5290): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:3140): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:3140): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
+
+(firefox:785): GLib-GObject-CRITICAL **: g_object_ref: assertion 'object->ref_count > 0' failed
+
+(firefox:785): GLib-GObject-CRITICAL **: g_object_unref: assertion 'object->ref_count > 0' failed
